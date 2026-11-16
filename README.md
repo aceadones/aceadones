@@ -9,9 +9,15 @@
   <a href="https://3by2web.com"><img src="https://img.shields.io/badge/3BY2WEB-website-0a0a0b?style=for-the-badge&logo=googlechrome&logoColor=a97bff" alt="3BY2WEB" /></a>
 </p>
 
+<!-- Contribution snake: refreshed daily by .github/workflows/snake.yml (private contributions are on in profile settings). -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aceadones/aceadones/output/snake-dark.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/aceadones/aceadones/output/snake.svg" />
+</picture>
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### ✦ about
+### ✦ About
 
 I'm a designer who turned into an AI engineer. I direct a crew of Claude Code agents and ship in hours what used to take weeks: websites, software, tools.
 
@@ -22,28 +28,20 @@ I'm a designer who turned into an AI engineer. I direct a crew of Claude Code ag
 
 <!-- NOW: one line on what you're building this week. Update it every Monday. -->
 
-### ✦ shipped
+### ✦ Shipped
 
 <a href="https://github.com/aceadones/teklado"><img src="assets/teklado.svg" width="560" alt="Teklado: a private, customizable Android keyboard" /></a>
 
 <!-- Add one card per tool you ship. Ask Claude to generate the SVG card. -->
 
-### ✦ toolbox
+### ✦ Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-main_tool-0a0a0b?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Figma-design-0a0a0b?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Cursor-sometimes-0a0a0b?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude_Code-0a0a0b?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Figma-0a0a0b?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Cursor-0a0a0b?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
-Languages? Whatever the job needs. The agents write the code; I direct, design and test it.
-
 <img src="assets/divider.svg" width="100%" alt="" />
-
-<!-- Contribution snake: needs .github/workflows/snake.yml (included) and "Private contributions" turned on in your GitHub profile settings. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aceadones/aceadones/output/snake-dark.svg" />
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/aceadones/aceadones/output/snake.svg" />
-</picture>
 
 <p align="center"><sub>XO ❦</sub></p>
