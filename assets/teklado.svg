@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="600" height="220" role="img" aria-label="Teklado by Next Layer Labs: a private, customizable Android keyboard">
+<defs><linearGradient id="gl" x1="0" x2="1"><stop offset="0" stop-color="#ff2d55"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+<style>
+  .t{font:800 30px Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;fill:#f4f4f5;letter-spacing:-.5px}
+  .by{font:500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#a1a1aa;letter-spacing:.5px}
+  .d{font:500 14px Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;fill:#d4d4d8}
+  .m{font:500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#71717a}
+  .tag{font:600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#e4e4e7;letter-spacing:1px}
+  .key{fill:#ffffff;fill-opacity:.05;stroke:#ffffff;stroke-opacity:.10}
+  .hot{animation:press 6.0s infinite}
+  .enter{animation:press 6.0s infinite}
+  @keyframes press{0%,2%{fill:#ff2d55;fill-opacity:.9}12%,100%{fill:#ffffff;fill-opacity:.05}}
+  .kl{font:500 10px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#a1a1aa;text-anchor:middle}
+  .ico{fill:none;stroke:#a1a1aa;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:round}
+  .glide{fill:none;stroke:url(#gl);stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:900;animation:glide 6.0s cubic-bezier(.65,0,.35,1) infinite}
+  @keyframes glide{0%{stroke-dashoffset:900;opacity:1}38%{stroke-dashoffset:0;opacity:1}60%,100%{stroke-dashoffset:0;opacity:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="599" height="219" rx="16" fill="#0c0c0f" stroke="#ffffff" stroke-opacity=".10"/>
+<text class="t" x="28" y="56">Teklado</text>
+<circle cx="32" cy="76" r="3" fill="#ff2d55"/>
+<text class="by" x="42" y="80">by Next Layer Labs</text>
+<text class="d" x="28" y="114">A private, customizable</text>
+<text class="d" x="28" y="134">Android keyboard.</text>
+<text class="m" x="28" y="160">glide · emoji kitchen · themes</text>
+<rect x="28" y="176" width="84" height="24" rx="12" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+<circle cx="43" cy="188" r="4" fill="#a97bff"/>
+<text class="tag" x="54" y="192">KOTLIN</text>
+<rect class="key" x="294.0" y="58.5" width="22" height="22" rx="6"/><text class="kl" x="305.0" y="73.5">q</text><rect class="key" x="321.0" y="58.5" width="22" height="22" rx="6"/><text class="kl" x="332.0" y="73.5">w</text><rect class="key hot" style="animation-delay:0.63s" x="348.0" y="58.5" width="22" height="22" rx="6"/><text class="kl" x="359.0" y="73.5">e</text><rect class="key" x="375.0" y="58.5" width="22" height="22" rx="6"/><text class="kl" x="386.0" y="73.5">r</text><rect class="key hot" style="animation-delay:0.35s" x="402.0" y="58.5" width="22" height="22" rx="6"/><text class="kl" x="413.0" y="73.5">t</text><rect class="key" x="429.0" y="58.5" width="22" height="22" rx="6"/><text class="kl" x="440.0" y="73.5">y</text><rect class="key" x="456.0" y="58.5" width="22" height="22" rx="6"/><text class="kl" x="467.0" y="73.5">u</text><rect class="key" x="483.0" y="58.5" width="22" height="22" rx="6"/><text class="kl" x="494.0" y="73.5">i</text><rect class="key hot" style="animation-delay:2.03s" x="510.0" y="58.5" width="22" height="22" rx="6"/><text class="kl" x="521.0" y="73.5">o</text><rect class="key" x="537.0" y="58.5" width="22" height="22" rx="6"/><text class="kl" x="548.0" y="73.5">p</text><rect class="key hot" style="animation-delay:1.47s" x="307.5" y="85.5" width="22" height="22" rx="6"/><text class="kl" x="318.5" y="100.5">a</text><rect class="key" x="334.5" y="85.5" width="22" height="22" rx="6"/><text class="kl" x="345.5" y="100.5">s</text><rect class="key hot" style="animation-delay:1.75s" x="361.5" y="85.5" width="22" height="22" rx="6"/><text class="kl" x="372.5" y="100.5">d</text><rect class="key" x="388.5" y="85.5" width="22" height="22" rx="6"/><text class="kl" x="399.5" y="100.5">f</text><rect class="key" x="415.5" y="85.5" width="22" height="22" rx="6"/><text class="kl" x="426.5" y="100.5">g</text><rect class="key" x="442.5" y="85.5" width="22" height="22" rx="6"/><text class="kl" x="453.5" y="100.5">h</text><rect class="key" x="469.5" y="85.5" width="22" height="22" rx="6"/><text class="kl" x="480.5" y="100.5">j</text><rect class="key hot" style="animation-delay:0.91s" x="496.5" y="85.5" width="22" height="22" rx="6"/><text class="kl" x="507.5" y="100.5">k</text><rect class="key hot" style="animation-delay:1.19s" x="523.5" y="85.5" width="22" height="22" rx="6"/><text class="kl" x="534.5" y="100.5">l</text><rect class="key" x="321.0" y="112.5" width="22" height="22" rx="6"/><text class="kl" x="332.0" y="127.5">z</text><rect class="key" x="348.0" y="112.5" width="22" height="22" rx="6"/><text class="kl" x="359.0" y="127.5">x</text><rect class="key" x="375.0" y="112.5" width="22" height="22" rx="6"/><text class="kl" x="386.0" y="127.5">c</text><rect class="key" x="402.0" y="112.5" width="22" height="22" rx="6"/><text class="kl" x="413.0" y="127.5">v</text><rect class="key" x="429.0" y="112.5" width="22" height="22" rx="6"/><text class="kl" x="440.0" y="127.5">b</text><rect class="key" x="456.0" y="112.5" width="22" height="22" rx="6"/><text class="kl" x="467.0" y="127.5">n</text><rect class="key" x="483.0" y="112.5" width="22" height="22" rx="6"/><text class="kl" x="494.0" y="127.5">m</text>
+
+<rect class="key" x="294" y="139.5" width="49" height="22" rx="6"/>
+<g class="ico" transform="translate(309.5 144.5)">
+  <rect x=".5" y=".5" width="17" height="11" rx="2.5"/>
+  <path d="M3.5 4h1M6.5 4h1M9.5 4h1M12.5 4h1M3.5 6.5h1M6.5 6.5h1M9.5 6.5h1M12.5 6.5h1M5.5 9h7"/>
+</g>
+<rect class="key" x="348" y="139.5" width="130" height="22" rx="6"/>
+<rect x="399.0" y="154.5" width="28" height="2" rx="1" fill="#ffffff" fill-opacity=".18"/>
+<rect class="key enter" x="483" y="139.5" width="76" height="22" rx="6" style="animation-delay:2.56s"/>
+<path class="ico" transform="translate(513.0 145.5)" d="M15 .5v4.5a2 2 0 0 1-2 2H2M5 3.5 2 7l3 3"/>
+
+<path class="glide" d="M413.0 69.5 L359.0 69.5 L507.5 96.5 L534.5 96.5 L318.5 96.5 L372.5 96.5 L521.0 69.5"/>
+</svg>
